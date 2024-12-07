@@ -1,0 +1,1 @@
+lines = open('Input/Day2.txt', 'r').readlines()
